@@ -1,0 +1,7 @@
+{ "translations": {
+    "Index not found" : "Indeks ble ikke funnet",
+    "Full text search" : "Fulltekst søk",
+    "Search on %s" : "Søk etter %s",
+    "General" : "Generelt"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
